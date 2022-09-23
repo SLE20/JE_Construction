@@ -1,0 +1,11 @@
+Fonctionalites
+-Contact Form (Mail + AntiSpam)
+-Vue en 2 langues
+-Adresse + GPS
+-Affichage de fil d'actualite de RS (FB, INS etc..)
+
+
+Les pages
+-Home (+ Contact)
+-A propos
+-Realisations
